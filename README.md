@@ -1,4 +1,4 @@
-![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)
+![MasterHead](https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif)
 <h1 align="center">Hi 👋, I'm Arunika</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
