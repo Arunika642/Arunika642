@@ -6,11 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunika642" alt="arunika642" /></a> </p>
 
-- 🔭 I’m currently working on **Java and DSA**
+- 🔭 I’m currently working on **C++ and DSA**
 
-- 🌱 I’m currently learning **Java**
-
-- 👯 I’m looking to collaborate on **Java**
+- 👯 I’m looking to collaborate on **C++**
 
 - 📫 How to reach me **aru26srivastava001@gmail.com**
 
