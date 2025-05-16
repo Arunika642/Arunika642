@@ -11,6 +11,22 @@
 - 📫 How to reach me **arunika.srivastava26@gmail.com**
 - 🌱 Every expert coder was once a beginner who never gave up — your journey is just as exciting!
 
+---
+
+<h3 align="left">🚀 My Tech Stack</h3>
+<p align="left">
+  <code style="background:#f1f1f1; padding:4px 8px; border-radius:5px; margin-right:6px;">C++</code>
+  <code style="background:#f1f1f1; padding:4px 8px; border-radius:5px; margin-right:6px;">Java</code>
+  <code style="background:#f1f1f1; padding:4px 8px; border-radius:5px; margin-right:6px;">JavaScript</code>
+  <code style="background:#f1f1f1; padding:4px 8px; border-radius:5px; margin-right:6px;">React</code>
+  <code style="background:#f1f1f1; padding:4px 8px; border-radius:5px; margin-right:6px;">Spring Boot</code>
+  <code style="background:#f1f1f1; padding:4px 8px; border-radius:5px; margin-right:6px;">MySQL</code>
+  <code style="background:#f1f1f1; padding:4px 8px; border-radius:5px; margin-right:6px;">Git</code>
+  <code style="background:#f1f1f1; padding:4px 8px; border-radius:5px; margin-right:6px;">HTML</code>
+  <code style="background:#f1f1f1; padding:4px 8px; border-radius:5px;">CSS</code>
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/arunikasrivast2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arunikasrivast2" height="30" width="40" /></a>
