@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif)
 <h1 align="center">Hi 👋, I'm Arunika</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">I'm a passionate developer on a mission to turn real-life challenges into smart, impactful solutions through code. My journey in software development is fueled by curiosity, creativity, and a deep desire to build technologies that truly make a difference. Whether it’s crafting dynamic user interfaces or building robust backend systems, I love bringing ideas to life through meaningful and efficient code. My goal is to carve out a rewarding and purpose-driven career in software development — one line of code at a time. Let’s build, learn, and create technology that makes a real impact🌟</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunika642&label=Profile%20views&color=0e75b6&style=flat" alt="arunika642" /> </p>
 
