@@ -6,11 +6,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunika642" alt="arunika642" /></a> </p>
 
-- 🔭 I’m currently working on **C++ and DSA**
-
+- 🔭 Talk to me about Software Development and DSA
 - 👯 I’m looking to collaborate on **C++**
-
-- 📫 How to reach me **aru26srivastava001@gmail.com**
+- 📫 How to reach me **arunika.srivastava26@gmail.com**
+- 🌱 Every expert coder was once a beginner who never gave up — your journey is just as exciting!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
