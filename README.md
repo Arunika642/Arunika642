@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunika642&label=Profile%20views&color=0e75b6&style=flat" alt="arunika642" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunika642" alt="arunika642" /></a> </p>
-
 - 🔭 Talk to me about Software Development and DSA
 - 👯 I’m looking to collaborate on **C++**
 - 📫 How to reach me **arunika.srivastava26@gmail.com**
