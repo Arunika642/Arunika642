@@ -13,18 +13,36 @@
 
 ---
 
-<h3 align="left">🚀 My Tech Stack</h3>
-<p align="left">
-  <code style="background:#f1f1f1; padding:4px 8px; border-radius:5px; margin-right:6px;">C++</code>
-  <code style="background:#f1f1f1; padding:4px 8px; border-radius:5px; margin-right:6px;">Java</code>
-  <code style="background:#f1f1f1; padding:4px 8px; border-radius:5px; margin-right:6px;">JavaScript</code>
-  <code style="background:#f1f1f1; padding:4px 8px; border-radius:5px; margin-right:6px;">React</code>
-  <code style="background:#f1f1f1; padding:4px 8px; border-radius:5px; margin-right:6px;">Spring Boot</code>
-  <code style="background:#f1f1f1; padding:4px 8px; border-radius:5px; margin-right:6px;">MySQL</code>
-  <code style="background:#f1f1f1; padding:4px 8px; border-radius:5px; margin-right:6px;">Git</code>
-  <code style="background:#f1f1f1; padding:4px 8px; border-radius:5px; margin-right:6px;">HTML</code>
-  <code style="background:#f1f1f1; padding:4px 8px; border-radius:5px;">CSS</code>
-</p>
+## 🚀 My Tech Stack
+
+### 👩‍💻 Programming Languages  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🧰 Libraries and Frameworks  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🛠️ Other Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+---
+
+## 🔥 GitHub Streaks  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Arunika642&theme=dark&border_radius=10&fire=orange)](https://git.io/streak-stats)
+
+---
+
+## 🤝 Connect with me  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arunika642)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunika26)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Arunika_Srivastava)
 
 
 <h3 align="left">Connect with me:</h3>
